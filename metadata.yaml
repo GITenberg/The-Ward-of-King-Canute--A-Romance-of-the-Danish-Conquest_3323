@@ -1,0 +1,26 @@
+_repo: The-Ward-of-King-Canute--A-Romance-of-the-Danish-Conquest_3323
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Liljencrantz, Ottilie A. (Ottilia Adelina)
+    alias: Liljencrantz, Ottilia Adelina
+    birthdate: 1876
+    deathdate: 1910
+    gutenberg_agent_id: '1178'
+    url: http://www.gutenberg.org/2009/agents/1178
+description: ''
+gutenberg_issued: '2002-07-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '3323'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Canute I, King of England, 995?-1035 -- Fiction'
+- !lcsh 'Great Britain -- History -- Canute, 1017-1035 -- Fiction'
+- GITenberg
+title: 'The Ward of King Canute: A Romance of the Danish Conquest'
+url: http://www.gutenberg.org/ebooks/3323
